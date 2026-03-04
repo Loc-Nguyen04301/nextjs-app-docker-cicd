@@ -56,7 +56,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Documentation
+            Documentation Loc Nguyen them moi
           </a>
         </div>
       </main>
